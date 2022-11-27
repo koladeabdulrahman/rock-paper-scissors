@@ -1,0 +1,27 @@
+.container{
+    margin: auto;
+    width: 75%;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+
+
+#game-title-header-div{
+    margin: auto;
+    width: 75%;
+    height: 50px;
+}
+
+h2{
+    margin: auto;
+    text-align: center;
+}
+
+button{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
